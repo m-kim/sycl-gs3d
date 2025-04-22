@@ -1,4 +1,6 @@
-![](./media/art-installation.mp4)
+
+https://github.com/user-attachments/assets/00b82efe-5cbc-4a61-8177-250550832c26
+
 
 sycl-gs3d demo application
 
